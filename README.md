@@ -2,4 +2,4 @@
 send html poster to multiple people.
 
 
-To use this code, replace "fommater.html" into your poster.
+To use this code, replace "formatter.html" into your poster.
